@@ -1,0 +1,71 @@
+.landing {
+    background-image: url('../../img/chi.img.jpg');
+    background-repeat: no-repeat;
+    background-position: center top;
+    height: 100%;
+    padding: 1.52em;
+    border: solid 0.5px whitesmoke;
+    border-top: solid 0px white;
+    border-bottom: solid 3px whitesmoke;
+}
+
+.landingName {
+    margin-top: 7em;
+}
+
+.above {
+    margin-top: 20px;
+}
+
+.section {
+    display: flex;
+}
+
+.title {
+    font-size: 3em;
+}
+
+.subtitle {
+    color: dimgray;
+    display: block;
+    font-weight: 300;
+}
+
+.headingColor {
+    color: #3273dc;
+}
+
+.pColor {
+    color: rgb(20, 8, 8);
+    font-weight: 300;
+    background: whitesmoke;
+    padding: 5px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.aboutMe,
+.mySkills,
+.myEducation {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.skills {
+    text-align: center;
+    justify-content: center;
+}
+
+.footer {
+    background-color: #3273dc;
+    color: aliceblue;
+}
+
+.contact {
+    justify-content: center;
+    border: solid 1px whitesmoke;
+    border-bottom: solid 2px whitesmoke;
+    margin: auto;
+    margin-top: 10px;
+}
