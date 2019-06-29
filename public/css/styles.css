@@ -1,3 +1,7 @@
+body {
+    background: #fdfdff;
+}
+
 .landing {
     background-image: url('../../img/images.png');
     background-repeat: no-repeat;
