@@ -2,7 +2,7 @@
 .img1 {
     background-image: url('../../img/img1.jpeg');
     background-repeat: no-repeat;
-    background-size: auto; 
+    background-size: cover; 
     padding: 1.52em;
 }
 
