@@ -1,13 +1,10 @@
 
-.landing {
-    background-image: url('../../img/images.png');
+.img1 {
+    background-image: url('../../img/img1.jpeg');
     background-repeat: no-repeat;
     background-position: center top;
     height: 100%;
     padding: 1.52em;
-    border: solid 0.5px whitesmoke;
-    border-top: solid 0px white;
-    border-bottom: solid 3px whitesmoke;
 }
 
 .landingName {
