@@ -40,9 +40,9 @@
     margin-top: 20px;
 }
 
-.section {
+/* .section {
     display: flex;
-}
+} */
 
 .secA {
     background: #eeeeee;
@@ -70,7 +70,7 @@
     border-radius: 10px;
     margin: auto;
 } */
-.height {
+/* .height {
     padding-bottom: 40px;
 }
 
@@ -91,10 +91,6 @@
     justify-content: center;
 }
 
-.footer {
-    background-color: #3273dc;
-    color: aliceblue;
-}
 
 .contact {
     justify-content: center;
@@ -102,4 +98,51 @@
     border-bottom: solid 2px whitesmoke;
     margin: auto;
     margin-top: 10px;
+}
+
+*/
+
+.footer {
+    background-color: #3273dc;
+    color: aliceblue;
+}
+
+
+/****Bulma*****/
+.section-heading {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 6em;
+}
+
+.section-heading2 {
+    text-align: center;
+}
+
+.skills-content .media {
+    margin: 0 !important;
+    padding: 4px !important;
+    border: 0 !important;
+}
+
+.skills-content .progress {
+    height: 4px !important;
+}
+
+.has-same-height .card {
+    height: 100%;
+    overflow: hidden;
+}
+
+.card-content h3 {
+    text-align: center;
+}
+
+.table-profile td,
+th {
+    border: none !important;
+}
+
+.table-profile td:first-of-type {
+    font-weight: bold;
 }
